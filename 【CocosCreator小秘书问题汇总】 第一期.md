@@ -111,7 +111,7 @@ cc.Class({
 
 ***A***：2.3.0 版本之前对 3d 模型的支持不够完善的问题。从 2.3.0 版本开始，支持一键创建 3d 场景必须的节点。包括缩放问题。 
 
- 	2.3 版本的截图：![Image Text](https://github.com/cocosyang/CocosCreator-FAQ/blob/master/images/test.png)
+ 	2.3 版本的截图：![avatar](https://github.com/cocosyang/CocosCreator-FAQ/blob/master/images/test.png)
 
 ---
 
